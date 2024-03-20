@@ -1,5 +1,5 @@
 # webGet
-A tool used to download any type of file online, this tool provides a very unieq way to get a file from any websites server. We have python Requests library, wget and curl commands installed.
+A tool used to download any type of file online, this tool provides a very unieq way to get a file from any websites server.
 
 ## Installation
 ```
@@ -13,4 +13,7 @@ wget https://bartwel27.github.io/webGet/v0.1/webget.py
 python webget.py
 ```
 >[!TIP]
->Take care ✅
+>eat
+>sleep
+>code
+>repeat

@@ -13,7 +13,4 @@ wget https://bartwel27.github.io/webGet/v0.1/webget.py
 python webget.py
 ```
 >[!TIP]
->eat
->sleep
->code
->repeat
+>Have a nice one ✌️✅

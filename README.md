@@ -3,6 +3,8 @@ A tool used to download any type of file online, this tool provides a very unieq
 
 ## Installation
 ```
-pip install requests
-pkg install wget
+pip install requests || pip2 install requests
+pkg install wget || sudo apt install wget
+pkg install curl || sudo apt install curl
+
 ```

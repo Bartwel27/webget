@@ -12,3 +12,5 @@ pkg install curl
 wget https://bartwel27.github.io/webGet/v0.1/webget.py
 python webget.py
 ```
+>[!CAUTION]
+>Please dont misuse

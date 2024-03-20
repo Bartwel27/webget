@@ -3,8 +3,12 @@ A tool used to download any type of file online, this tool provides a very unieq
 
 ## Installation
 ```
-pip install requests || pip2 install requests
-pkg install wget || sudo apt install wget
-pkg install curl || sudo apt install curl
-
+pip install requests
+pkg install wget
+pkg install curl
 ```
+### Download
+```
+wget https://bartwel27.github.io/webGet/v0.1/webget.py
+python webget.py
+``

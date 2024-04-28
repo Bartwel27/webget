@@ -8,7 +8,9 @@ pkg install curl
 ```
 > Download
 ```
-wget https://bartwel27.github.io/webget/v0.1/webget.py
+wget [https://bartwel27.github.io/webget/v0.1/webget.py](https://bartwel27.github.io/webget/v0.1/webget.py)
+```
+```
 python webget.py
 ```
 >[!TIP]
